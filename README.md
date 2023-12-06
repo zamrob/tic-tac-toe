@@ -1,1 +1,2 @@
 # tic-tac-toe
+Apparently having a degree from a top university and internship experience and projects is not enough to get callbacks so now I've got to show recruiters I am capable of programming useless widgets and projects. 
